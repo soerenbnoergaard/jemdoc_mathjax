@@ -17,6 +17,11 @@ What's new in jemdoc+MathJax
 - Control of the behavior of links: open in the current web broswer tab or in a new tab
 - Works on both Python 2 and 3
 
+My updates
+----------
+In my version, I have added the following changes compared to [Wonseok Shin's version](https://github.com/wsshin/jemdoc_mathjax):
+- Centered images with a caption underneath with the `img_center` tag.
+
 How to use jemdoc+MathJax
 -------------------------
 Once you download jemdoc+MathJax, you can install and use it like the original jemdoc.  See the [jemdoc user guide](http://jemdoc.jaboc.net/using.html), expecially the [example page](http://jemdoc.jaboc.net/example.html).
